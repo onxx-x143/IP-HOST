@@ -2,9 +2,7 @@
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
-## 👨‍💻 BY ONXX-X143
-
-**Made with ❤️ by onxx-x143**
+## 👨‍💻 *BY ONXX-X143*
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
